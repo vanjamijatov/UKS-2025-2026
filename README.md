@@ -16,9 +16,9 @@ Plan izvođenja vežbi je sledeći:
 | 9 | Nedelja za samostalni rad (bez vežbi u redovnom terminu; konsultacije uz prethodnu najavu putem email-a) | 31.12. & 02.01. |
 | 10 | Nedelja za samostalni rad (bez vežbi u redovnom terminu; konsultacije uz prethodnu najavu putem email-a) | 07.01. & 09.01. |
 | 11 | [Elasticsearch](https://github.com/vanjamijatov/UKS-DjangoElasticsearch) i konsultacije u terminu vežbi | 14.01. & 16.01. |
-| 12 | Nedelja za samostalni rad (bez vežbi u redovnom terminu; konsultacije uz prethodnu najavu putem email-a) | 21.01. & 23.01. |
-| 13 | Nedelja za samostalni rad (bez vežbi u redovnom terminu; konsultacije uz prethodnu najavu putem email-a) | 28.01. & 30.01. |
-| 14 | Nedelja za samostalni rad (bez vežbi u redovnom terminu; konsultacije uz prethodnu najavu putem email-a) | 04.02. & 06.02. |
+| 12 | Nedelja za samostalni rad na projektu (bez vežbi u redovnom terminu; konsultacije u terminu vežbi uz prethodnu najavu putem email-a) | 21.01. & 23.01. |
+| 13 | Nedelja za samostalni rad na projektu (bez vežbi u redovnom terminu; konsultacije u terminu vežbi uz prethodnu najavu putem email-a) | 28.01. & 30.01. |
+| 14 | Nedelja za samostalni rad na projektu (bez vežbi u redovnom terminu; konsultacije u terminu vežbi uz prethodnu najavu putem email-a) | 04.02. & 06.02. |
 | 15 | Odbrana projekta - prvi rok | 11.02. & 13.02. |
 
 **Napomena:** Plan izvođenja vežbi je podložan promenama u toku semestra.
