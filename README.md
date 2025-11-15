@@ -7,12 +7,12 @@ Plan izvođenja vežbi je sledeći:
 | --- | --- | --- |
 | 1 | Nema vežbi | 05.11. & 07.11. |
 | 2 | Nema vežbi | 12.11. & 14.11. |
-| 3 | Upoznavanje sa projektom, [Git - osnove](https://github.com/vanjamijatov/UKS-materijali/tree/main/Git) i [Git - branching i GitFlow](https://github.com/vanjamijatov/UKS-materijali/tree/main/Git) | 19.11. & 21.11. |
-| 4 | [Python podsećanje - osnove](https://github.com/vanjamijatov/UKS-materijali/tree/main/Python%20Basics/Python%20lesson) i [Python podsećanje - napredno](https://github.com/vanjamijatov/UKS-materijali/tree/main/Python%20Basics/Python%20lesson) | 26.11. & 28.11. |
-| 5 | [Docker](https://github.com/vanjamijatov/UKS-DjangoAuthTestsDocker) i UML dijagram klasa modela | 03.12. & 05.12. |
-| 6 | [Django tutorial](https://github.com/vanjamijatov/UKS-materijali/tree/main/Django%20Framework) i [Primer Django aplikacije](https://github.com/vanjamijatov/UKS-materijali/tree/main/Django%20Application%20Example) | 10.12. & 12.12. |
-| 7 | [Django auth, Django tests](https://github.com/vanjamijatov/UKS-DjangoAuthTestsDocker) i [Pytest](https://github.com/vanjamijatov/UKS-materijali/tree/main/Pytest) | 17.12. & 19.12. |
-| 8 | [Github Actions (CI/CD), Docker Compose](https://github.com/vanjamijatov/UKS-DjangoAuthTestsDocker) | 24.12. & 26.12. |
+| 3 | Nema vežbi | 19.11. & 21.11. |
+| 4 | Upoznavanje sa projektom, [Git - osnove](https://github.com/vanjamijatov/UKS-materijali/tree/main/Git) i [Git - branching i GitFlow](https://github.com/vanjamijatov/UKS-materijali/tree/main/Git) | 26.11. & 28.11. |
+| 5 | [Python podsećanje](https://github.com/vanjamijatov/UKS-materijali/tree/main/Python%20Basics/Python%20lesson) | 03.12. & 05.12. |
+| 6 | [Docker](https://github.com/vanjamijatov/UKS-DjangoAuthTestsDocker), [Docker Compose](https://github.com/vanjamijatov/UKS-DjangoProductionSetup) i UML dijagram klasa modela | 10.12. & 12.12. |
+| 7 | [Django tutorial](https://github.com/vanjamijatov/UKS-materijali/tree/main/Django%20Framework) i [Primer Django aplikacije](https://github.com/vanjamijatov/UKS-materijali/tree/main/Django%20Application%20Example) | 17.12. & 19.12. |
+| 8 | [Django auth, Django tests](https://github.com/vanjamijatov/UKS-DjangoAuthTestsDocker), [Pytest](https://github.com/vanjamijatov/UKS-materijali/tree/main/Pytest), [Github Actions (CI/CD)](https://github.com/vanjamijatov/UKS-DjangoAuthTestsDocker)  | 24.12. & 26.12. |
 | 9 | Nedelja za samostalni rad (bez vežbi u redovnom terminu; konsultacije uz prethodnu najavu putem email-a) | 31.12. & 02.01. |
 | 10 | Nedelja za samostalni rad (bez vežbi u redovnom terminu; konsultacije uz prethodnu najavu putem email-a) | 07.01. & 09.01. |
 | 11 | [Elasticsearch](https://github.com/vanjamijatov/UKS-DjangoElasticsearch) i konsultacije u terminu vežbi | 14.01. & 16.01. |
