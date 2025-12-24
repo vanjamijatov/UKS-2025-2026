@@ -15,8 +15,8 @@ Plan izvođenja vežbi je sledeći:
 | 8 | [Django tutorial](https://github.com/vanjamijatov/UKS-materijali/tree/main/Django%20Framework) i [Primer Django aplikacije](https://github.com/vanjamijatov/UKS-materijali/tree/main/Django%20Application%20Example) | 24.12. |
 | 9 | Nedelja za samostalni rad (bez vežbi u redovnom terminu; konsultacije uz prethodnu najavu putem email-a) | 31.12. |
 | 10 | Nedelja za samostalni rad (bez vežbi u redovnom terminu; konsultacije uz prethodnu najavu putem email-a) | 07.01. |
-| 11 | [Django auth, Django tests](https://github.com/vanjamijatov/UKS-DjangoAuthTestsDocker), [Pytest](https://github.com/vanjamijatov/UKS-materijali/tree/main/Pytest), [Github Actions (CI/CD)](https://github.com/vanjamijatov/UKS-DjangoAuthTestsDocker) | 14.01. |
-| 12 | [Elasticsearch](https://github.com/vanjamijatov/UKS-DjangoElasticsearch) i konsultacije u terminu vežbi | 21.01. |
+| 11 | [Django auth, Django tests, Github Actions (CI/CD)](https://github.com/vanjamijatov/UKS-DjangoAuthTestsDocker), [Pytest](https://github.com/vanjamijatov/UKS-materijali/tree/main/Pytest), [Elasticsearch](https://github.com/vanjamijatov/UKS-DjangoElasticsearch) i konsultacije u terminu vežbi | 14.01. |
+| 12 | Nedelja za samostalni rad na projektu (bez vežbi u redovnom terminu; konsultacije u terminu vežbi uz prethodnu najavu putem email-a) | 21.01. |
 | 13 | Nedelja za samostalni rad na projektu (bez vežbi u redovnom terminu; konsultacije u terminu vežbi uz prethodnu najavu putem email-a) | 28.01. |
 | 14 | Nedelja za samostalni rad na projektu (bez vežbi u redovnom terminu; konsultacije u terminu vežbi uz prethodnu najavu putem email-a) | 04.02. |
 | 15 | Odbrana projekta - prvi rok | 11.02. |
